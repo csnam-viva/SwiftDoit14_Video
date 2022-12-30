@@ -10,3 +10,6 @@
         let filePath: String? = Bundle.main.path(forResource: "fishbread", ofType: "mp4")
 </code>
 ```       
+
+
+유투브 영상의 url을 가져와서 재생을 할 수 없다. 
